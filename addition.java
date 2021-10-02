@@ -1,4 +1,4 @@
-import java.util.Scanner;
+```import java.util.Scanner;
 
 public class addition {
     public static void main(String[] args) {
@@ -8,4 +8,4 @@ public class addition {
         int b=inp.nextInt();
         System.out.println("Addition of integers is: "+(a+b));
     }
-}
+}```
